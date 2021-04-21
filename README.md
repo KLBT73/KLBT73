@@ -13,9 +13,12 @@ For this challenge, I chose to markdown a page from the Rocket League Wiki found
 
 **Competitive** is one of the two core online gameplay modes. The competitive mode is based purely on skill tiers which will loosely determine the skill of a player.
 
-- [Playlists]
+- [Playlists](#playlists)
   - [Standard]
   - [Doubles]
   - [Solo Duel]
   - [Solo Standard]
 - [Ranking]
+
+
+# Playlists
