@@ -30,6 +30,7 @@ There are seven competitive playlists:
 5. Dropshot
 6. Hoops
 7. Snow Day
+
 ***Note:*** Each player has a separate progression for each playlist (i.e. it is possible to be silver 3 in doubles and diamond 2 in standard).
 
 ### Standard
