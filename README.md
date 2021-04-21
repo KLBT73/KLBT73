@@ -30,7 +30,7 @@ There are seven competitive playlists:
 5. Dropshot
 6. Hoops
 7. Snow Day
-***Note:***Each player has a separate progression for each playlist (i.e. it is possible to be silver 3 in doubles and diamond 2 in standard).
+**Note:**Each player has a separate progression for each playlist (i.e. it is possible to be silver 3 in doubles and diamond 2 in standard).
 
 ### Standard
 *Standard* is generally the most popular competitive playlist. As the name indicates, it is the standard online game mode. In standard, the team is composed of three players, therefore, teamwork is crucial to victory. Because of the number of players involved in the gameplay, it is recommended that players maintain tactical positions and rotation across the arena.
