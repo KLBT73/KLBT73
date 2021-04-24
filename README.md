@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 My name is Kyle Bennett and I'm a student at Mizzou studying Information Technology. This README document is for a challenge in my INFOTC 1600 class.
 For this challenge, I chose to markdown the "Competitive" page from the Rocket League Wiki found [here](https://rocketleague.fandom.com/wiki/Rocket_League_Wiki).
 
+---
+
 # Competitive
 
 **Competitive** is one of the two core online gameplay modes within _Rocket League_. The competitive mode is based purely on skill tiers which will loosely determine the skill of a player.
@@ -21,8 +23,10 @@ For this challenge, I chose to markdown the "Competitive" page from the Rocket L
   - [Solo Standard](#solo-standard)
 - [Ranking](#ranking)
 
+---
 
 # Playlists
+
 There are seven competitive playlists:
 
 1. Solo Duel
@@ -46,6 +50,8 @@ There are seven competitive playlists:
 
 ### Solo Standard
 *Solo Standard* was a mode similar to Standard, and it was removed in Patch v1.81. It was generally the least popular competitive playlist. It was the same as standard in team size and game dynamics. The main feature of this game mode was that players couldn't join with their friends in a party and clubs couldn't join either. This playlist forced you to co-operate with the largest number of teammates available in ranked along with the team variation.
+
+---
 
 # Ranking
 You can track your stats and current competitive progression on Rocket League Tracker, a website that allows for competitive players to track their progression as each season rolls along.
